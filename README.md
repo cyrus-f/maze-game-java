@@ -14,7 +14,7 @@ To run a playable version of a maze file simply use the file location as an argu
 To see the solution to the maze in a GUI input GUI as the first argument, then the filepath eg: `java Launcher GUI maze_text_files/maze001.txt`
 
 # Creating Your Own Mazes
-The program supports mazes in a .txt format: see maze_text_files/maze001.txt for an example. <br>
+The program supports mazes in a .txt format: see [maze_text_files/maze001.txt](maze_text_files/maze001.txt) for an example. <br>
 The first line must contain the number of rows and columns separated by a space. <br>
 Subsequent lines are treated as rows in the maze encode by: <br>
 '#' - walls <br>
