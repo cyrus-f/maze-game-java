@@ -8,13 +8,13 @@ Algorithm Implementation: Implemented the A* search algorithm for efficient maze
 Technologies: Java, Java Swing Library, A* Search Algorithm, File Handling, Object-Oriented Design
 
 # How to Use
-Enter the src folder and locate Launcher.java <br>
+Enter the src folder and locate Launcher.java: `cd src` <br>
 Compile this using: `javac Launcher.java` <br>
 To run a playable version of a maze file simply use the file location as an argument eg: `java Launcher maze_text_files/maze001.txt` <br>
 To see the solution to the maze in a GUI input GUI as the first argument, then the filepath eg: `java Launcher GUI maze_text_files/maze001.txt`
 
 # Creating Your Own Mazes
-The program supports mazes in a .txt format: see [maze_text_files/maze001.txt](src/maze_text_files/maze001.txt) for an example. <br>
+The program supports mazes in a .txt format: see [src/maze_text_files/maze001.txt](src/maze_text_files/maze001.txt) for an example. <br>
 The first line must contain the number of rows and columns separated by a space. <br>
 Subsequent lines are treated as rows in the maze encode by: <br>
 '#' - walls <br>
