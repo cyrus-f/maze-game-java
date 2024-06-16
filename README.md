@@ -11,6 +11,7 @@ Technologies: Java, Java Swing Library, A* Search Algorithm, File Handling, Obje
 Enter the src folder and locate Launcher.java: `cd src` <br>
 Compile this using: `javac Launcher.java` <br>
 To run a playable version of a maze file simply use the file location as an argument eg: `java Launcher maze_text_files/maze001.txt` <br>
+You can move around use the WASD keys and hitting enter <br>
 To see the solution to the maze in a GUI input GUI as the first argument, then the filepath eg: `java Launcher GUI maze_text_files/maze001.txt`
 
 # Creating Your Own Mazes
