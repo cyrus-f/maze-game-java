@@ -9,9 +9,9 @@ Technologies: Java, Java Swing Library, A* Search Algorithm, File Handling, Obje
 
 # How to Use
 Enter the src folder and locate Launcher.java <br>
-Compile this using: javac Launcher.java <br>
-To run a playable version of a maze file simply use the file location as an argument eg: java Launcher maze_text_files/maze001.txt <br>
-To see the solution to the maze in a GUI input GUI as the first argument, then the filepath eg: java Launcher GUI maze_text_files/maze001.txt
+Compile this using: `javac Launcher.java` <br>
+To run a playable version of a maze file simply use the file location as an argument eg: `java Launcher maze_text_files/maze001.txt` <br>
+To see the solution to the maze in a GUI input GUI as the first argument, then the filepath eg: `java Launcher GUI maze_text_files/maze001.txt`
 
 # Creating Your Own Mazes
 The program supports mazes in a .txt format: see maze_text_files/maze001.txt for an example. <br>
